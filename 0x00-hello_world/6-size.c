@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
   *main-prints data types
   *Description:prints sizes of various types of data on the computer
