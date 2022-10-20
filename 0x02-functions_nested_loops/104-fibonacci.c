@@ -11,7 +11,7 @@ int main(void)
 	unsigned long f1 = 0, f2 = 1, sum;
 	unsigned long f1h1, f1h2, f2h1, f2h2;
 	unsigned long h1, h2;
-	
+
 	for (count = 0; count < 92; count++)
 	{
 		sum = f1 + f2;
