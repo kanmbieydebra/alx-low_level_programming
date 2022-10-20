@@ -7,7 +7,8 @@
   */
 int main(void)
 {
-	unsigned long f1 = 0, f2 = 1, sum, s;
+	unsigned long f1 = 0, f2 = 1, sum;
+	float s;
 
 	while (1)
 	{
