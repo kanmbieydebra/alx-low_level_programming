@@ -2,7 +2,7 @@
 
 /**
   *main- fizz buzz test
-  * 
+  *
   *Return: 0 always
   */
 
@@ -22,7 +22,7 @@ int main(void)
 			printf("Buzz");
 
 		else
-			printf("%d ", num);
+			printf("%d", num);
 
 		if (num == 100)
 			continue;
