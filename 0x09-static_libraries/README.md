@@ -3,14 +3,8 @@
 In this project, I learned what static libraries are and practiced creating and
 using them with `ar`, `ranlib`, and `nm`.
 
-## Tests :heavy_check_mark:
-
-* [tests](./tests): Folder of test files. Provided by Holberton School.
-
-## Tasks :page_with_curl:
-
-* **0. A library is not a luxury but one of the necessities of life**
-  * [libholberton.a](./libholberton.a): C Static library containing all the functions
+0. A library is not a luxury but one of the necessities of life**
+C Static library containing all the functions
   listed below:
     * `int _putchar(char c);`
     * `int _islower(int c);`
@@ -33,8 +27,8 @@ using them with `ar`, `ranlib`, and `nm`.
     * `char *_strpbrk(char *s, char *accept);`
     * `char *_strstr(char *haystack, char *needle);`
 
-  * [holberton.h](./holberton.h): Header file containing the prototypes of all functions
-  included in `libholberton.a`.
+main.h: Header file containing the prototypes of all functions
+  included in `libmy.a`.
 
 * **1. Without libraries what have we? We have no past and no future**
   * [create_static_lib.sh](./create_static_lib.sh): Bash script that creates a static
